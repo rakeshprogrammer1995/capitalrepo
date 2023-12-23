@@ -1,7 +1,7 @@
 
-class hello()
+ class hello()
 {
   public static void main(){
-  sop("hi bro bhava");
+  sop("hi sunday":w);
   }
   }

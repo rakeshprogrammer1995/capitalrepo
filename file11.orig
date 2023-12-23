@@ -1,11 +1,17 @@
 <<<<<<< HEAD
+
 class hello()
 {
   public static void main(){
   sop("hi bro bhava");
   }
   }
-
 =======
- hi bro
->>>>>>> 946ce44630bd45bc45c511236f6ecdc243cbe0ac
+ class hello()
+{
+  public static void main(){
+  sop("hi sunday":w);
+  }
+  }
+
+>>>>>>> f87f43d8fab3c6d244fdad3339f474e322a8a337
