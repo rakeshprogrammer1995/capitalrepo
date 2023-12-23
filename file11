@@ -1,1 +1,7 @@
- hi bro
+ class hello()
+{
+  public static void main(){
+  sop("hi sunday":w);
+  }
+  }
+
